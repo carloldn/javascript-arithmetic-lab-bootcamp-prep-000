@@ -1,10 +1,8 @@
-var number = 10
- 
-function add5() {
-  number += 5
+function add () {
+  number+=81
 }
  
-function divideBy3() {
+function divide() {
   number /= 3
 }
  
