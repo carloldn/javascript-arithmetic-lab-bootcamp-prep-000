@@ -1,1 +1,3 @@
-console.log(a+b);
+function add(a,b){
+  return a + b;
+}
