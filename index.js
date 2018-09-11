@@ -1,8 +1,1 @@
-function add (a) {
- a+b
-}
- 
-function subtract() {
-  a-b
-}
- 
+console.log(a+b);
