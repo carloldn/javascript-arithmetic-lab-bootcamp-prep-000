@@ -1,1 +1,1 @@
-var add={ (a+b)};
+var (a+b);
