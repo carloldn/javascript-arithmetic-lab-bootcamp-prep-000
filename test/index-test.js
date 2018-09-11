@@ -6,8 +6,7 @@ beforeEach(function() {
 })
 
 it('add(a, b) adds two numbers and returns the result', function() {
-  expect(add(a + learn
-  b)).toEqual(a + b)
+  expect(add(a, b)). learn.toEqual(a + b)
 })
 
 it('subtract(a, b) subtracts b from a and returns the result', function() {
