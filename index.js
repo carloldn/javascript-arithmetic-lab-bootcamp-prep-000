@@ -1,3 +1,4 @@
-function add (a,b) {
+var number;
+function add(a, b){ 
+  number = a + b;
   return a+b;
-}
