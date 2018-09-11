@@ -1,1 +1,1 @@
-var addtion= (a+b);
+var add= (a+b);
